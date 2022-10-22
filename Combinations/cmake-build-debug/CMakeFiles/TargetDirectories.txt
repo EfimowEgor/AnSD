@@ -1,0 +1,3 @@
+C:/Users/egore/Desktop/contests/codeforces/Combinations/cmake-build-debug/CMakeFiles/Combinations.dir
+C:/Users/egore/Desktop/contests/codeforces/Combinations/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/egore/Desktop/contests/codeforces/Combinations/cmake-build-debug/CMakeFiles/rebuild_cache.dir
